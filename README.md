@@ -1,3 +1,3 @@
 # html-lists
 
-Live preview: https://milosd15.github.io/html-lists/
+HTML Main project of the Brainnest Frontend Web Development Traineeship
